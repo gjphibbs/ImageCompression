@@ -1,0 +1,1 @@
+The files containing my work are sqtree.cpp and stats.cpp with some work in those files respective header files. Other files are written by instructors or taken from other sources with credits given in appropriate files. I do not claim any work apart from that in sqtree.cpp and stats.cpp as my own.
